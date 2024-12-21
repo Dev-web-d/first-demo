@@ -1,2 +1,3 @@
 # first-demo
-My first Repo
+My first Git-Hub Repo
+Author-Dev Dave
